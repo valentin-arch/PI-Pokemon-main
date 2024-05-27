@@ -1,0 +1,32 @@
+ 
+
+.LandingPage{
+   display: flex;
+   flex-direction: column;
+   background-image: url("https://i.imgur.com/qXZwxzd.jpeg");   
+   background-size:100% 100%;
+   background-position:center;
+   background-repeat:no-repeat;	
+   background-attachment: fixed;
+   height: 100vh;
+   
+}
+.buttonImage{
+   border-radius: 99rem;
+   background-color: rgba(207, 182, 149, 0);
+   margin-top: 10rem;
+   width: 90px;
+   height: 90px;
+    
+}
+.createdBy{
+   height: 60px;
+   width: 450px;
+   display: flex;
+   margin-top: 200px;
+   justify-content: center;
+   margin-left: 34rem;
+}
+.tittle{
+   margin-top: 1rem;
+}
